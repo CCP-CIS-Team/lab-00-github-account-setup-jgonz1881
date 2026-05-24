@@ -91,7 +91,7 @@ Edit this README.md file and complete the table:
 | Full Name |John Emmanuel Gonzales |
 | GitHub Username |jgonz1881 |
 | CCP Email |jgonz188@student.ccp.edu |
-| Operating System (Windows) | |
+| Operating System (Windows) |Windows |
 | Date Completed |5/23/2026 |
 
 ---
