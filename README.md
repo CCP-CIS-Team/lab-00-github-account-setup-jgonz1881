@@ -100,15 +100,15 @@ Edit this README.md file and complete the table:
 
 Q1: In your own words, what is GitHub and why do developers use it?
 
-    [Your answer here — 2 to 3 sentences]
+    GitHub is a website and platform where developers can store, manage, and share their code online. Developers use it to track changes in projects, work together with teams, and keep backups of their code using version control tools like Git.
 
 Q2: What is the difference between Git and GitHub?
 
-    [Your answer here — 2 to 3 sentences]
+   Git is a version control system that helps developers track changes in their code and manage different versions of a project. GitHub is an online platform that uses Git to let developers store code in the cloud, collaborate with others, and share projects easily.
 
 Q3: Why would a future employer look at your GitHub profile?
 
-    [Your answer here — 1 to 2 sentences]
+    A future employer may look at your GitHub profile to see your coding skills, projects, and how much experience you have working with code. It can also show your teamwork, consistency, and ability to use tools like Git and version control in real-world projects.
 
 ---
 
