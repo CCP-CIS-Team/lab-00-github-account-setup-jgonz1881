@@ -88,11 +88,11 @@ Edit this README.md file and complete the table:
 
 | Field | Your Answer |
 |---|---|
-| Full Name | |
-| GitHub Username | |
-| CCP Email | |
-| Operating System (Windows/Mac/Linux) | |
-| Date Completed | |
+| Full Name |John Emmanuel Gonzales |
+| GitHub Username |jgonz1881 |
+| CCP Email |jgonz188@student.ccp.edu |
+| Operating System (Windows) | |
+| Date Completed |5/23/2026 |
 
 ---
 
